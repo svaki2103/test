@@ -4,6 +4,10 @@
 
 
 /* styles */
+body {
+    place-items: center;
+    padding: 20px;
+}
 
 h1 {
     font-family: 'Google Sans', sans-serif;
@@ -11,8 +15,20 @@ h1 {
 }
 
 li {
-    font-family:'Times New Roman', Times, serif;
-    background-color:green;
-    border: 1px solid black;
-    margin-bottom: 5px;
+    font-family: 'Google Sans', sans-serif;
+    color:red;
+    margin-bottom: 10px;
+    display: flex;
+    gap: 1px;
+}
+
+img.dog {
+    display:block;
+    width: 250px;
+}
+
+img {
+    display:block;
+    width: 300px;
+    
 }
