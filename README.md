@@ -5,7 +5,7 @@ This is a simple portfolio I created to try out and test my skills in html and c
 I made this program to write a little about me. I plan on adding more, for now it has a short description about me, along with some images.
 I was spending time setting up and learning css and html, such as adding images (which was very cool)!
 ### Screenshot
-![Image](https://drive.google.com/file/d/1yyMPn4CAIjXQLnV2M-SAD-kfNf_cYI0k/view?usp=sharing)
+You can find it at https://drive.google.com/file/d/1yyMPn4CAIjXQLnV2M-SAD-kfNf_cYI0k/view?usp=sharing
 
 ## Getting Started
 # Dependencies
