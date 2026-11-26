@@ -1,8 +1,21 @@
-# hi
+# Test Portfolio
+This is a simple portfolio I created to try out and test my skills in html and css. I wanted to see how far I could get, and I'm constantly improving!
 
-Nice to meet you!
+## Description
+I made this program to write a little about me. I plan on adding more, for now it has a short description about me, along with some images.
+I was spending time setting up and learning css and html, such as adding images (which was very cool)!
+### Screenshot
+![Image](https://drive.google.com/file/d/1yyMPn4CAIjXQLnV2M-SAD-kfNf_cYI0k/view?usp=sharing)
 
-- I really like Coding..
-- This is a simple intro to my planning, and I really wanted to test out the basics of HTML and CSS, and how they connect. You can see the level of simplicity in my code :)
-- I'll be looking to try it out for more in my actual project for phantom. See ya!
-- Note: some of the commit names are AI generated, I think the ones for this ReadMe are because I'm on Github and it automatically does that :(
+## Getting Started
+# Dependencies
+* None. It's a simple web app, available at svaki2103.github.io/test
+# Installing
+* Just head to the site above!
+# Executing program
+* Just go to the site above!
+
+# My Journey
+I originally based this project off the My-Portfolio project. I changed my mind really quickly, though, as I didn't like tailwind css.
+That's why I changed a lot of things in this project, making an actual css file as it was easier to read and understand than tailwind.
+I hope you enjoy this project! I had a lot of fun learning css and I'm making more projects that are more complex (and definitely look better).
